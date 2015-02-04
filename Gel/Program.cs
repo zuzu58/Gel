@@ -7,6 +7,7 @@ namespace Gel
 {
     static class Program
     {
+        //bu bir summary
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
