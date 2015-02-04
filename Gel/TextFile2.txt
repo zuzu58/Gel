@@ -1,1 +1,3 @@
-﻿text 2 güncellendiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+﻿satır 1 
+
+satır 3
