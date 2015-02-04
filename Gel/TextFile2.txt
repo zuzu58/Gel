@@ -1,9 +1,1 @@
-﻿
-satır 2
-
-satır 4
-satır 1
-
-satır 3 
-
-satır 5
+﻿text 2 güncellendiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
