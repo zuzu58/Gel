@@ -1,2 +1,4 @@
-﻿güncellendiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-text 2 güncellendi
+﻿
+satır 2
+
+satır 4
